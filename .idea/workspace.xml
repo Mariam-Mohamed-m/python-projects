@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cc3d41-371b-4b7a-9d26-7bfae6c923d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestFirstSearchGreedy.py" afterDir="false" />
-    </list>
+    <list default="true" id="c4cc3d41-371b-4b7a-9d26-7bfae6c923d6" name="Changes" comment="bestfirstsearch_greedyalgorithm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mariam-Mohamed-m/python-projects.git",
+    "accountId": "97be2ea0-42fa-4536-a10e-9fbe1a152f7d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -66,12 +64,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731519747585</updated>
-      <workItem from="1731519748927" duration="3398000" />
+      <workItem from="1731519748927" duration="3926000" />
     </task>
+    <task id="LOCAL-00001" summary="bestfirstsearch_greedyalgorithm">
+      <option name="closed" value="true" />
+      <created>1731525126478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731525126478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bestfirstsearch_greedyalgorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="bestfirstsearch_greedyalgorithm" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Assignment3$BestFirstSearchGreedy.coverage" NAME="BestFirstSearchGreedy Coverage Results" MODIFIED="1731524726170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
